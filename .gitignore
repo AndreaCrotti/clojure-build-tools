@@ -5,3 +5,4 @@
 /.clj-kondo/
 /target/
 /.lein-failures
+/.nrepl-port

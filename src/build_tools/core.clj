@@ -1,4 +1,4 @@
-(ns lein.core
+(ns build-tools.core
   (:gen-class))
 
 (defn hello-there []

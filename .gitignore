@@ -1,2 +1,6 @@
 /lein/.clj-kondo/
 /lein/target/
+/.lsp/
+/.cpcache/
+/.clj-kondo/
+/target/
